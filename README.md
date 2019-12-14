@@ -27,6 +27,7 @@ Admins can update delete as well as edit the test,syllabus , documents whenever 
   
 ## scren shots
 
+![edit1](https://user-images.githubusercontent.com/43899938/70845963-9c93d980-1e7a-11ea-9893-98467d02fae9.png)
 
 ## Acknowledgments
 
