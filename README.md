@@ -22,6 +22,11 @@ Latest version of Xaamp can be used in case of using a Local Server.
 This simple system is faster , holding all the primary requirement for an elearning portal
 Admins can update delete as well as edit the test,syllabus , documents whenever required at a short span of time
 
+## usecase diagram
+  ![aa1](https://user-images.githubusercontent.com/43899938/70845709-c5669f80-1e77-11ea-8847-c282dc5438d3.jpg)
+  
+## scren shots
+
 
 ## Acknowledgments
 
